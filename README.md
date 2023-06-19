@@ -1,11 +1,11 @@
-About r-ic.infer
-================
+About r-ic.infer-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ic.infer-feedstock/blob/main/LICENSE.txt)
 
 Home: http://prof.beuth-hochschule.de/groemping/
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ic.infer-feedstock/blob/main/LICENSE.txt)
 
 Summary: Implements inequality constrained inference. This includes parameter estimation in normal (linear) models under linear equality and inequality constraints, as well as normal likelihood ratio tests involving inequality-constrained hypotheses. For inequality-constrained linear models, averaging over R-squared for different orderings of regressors is also included.
 
